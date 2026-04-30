@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=200&section=header&text=Yi&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bridging%20Humans%20%26%20Robots%20through%20VR&descAlignY=58&descSize=16" />
 
 <a href="https://github.com/chewing-void">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&lines=MPhil+Researcher+%40+UNSW+Sydney;VR+Teleoperation+%7C+Wizard+of+Oz;3D+Gaussian+Splatting+%7C+SplaTAM;Fluid+Mechanics+%E2%86%92+Deep+Learning+%E2%86%92+Robotics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&lines=MPhil+Researcher+%40+UNSW+Sydney;VR+Teleoperation+%7C+Wizard+of+Oz;3D+Gaussian+Splatting+%7C+SplaTAM;Computer+Vision+%E2%86%92+Deep+Learning+%E2%86%92+Robotics" alt="Typing SVG" />
 </a>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=chewing-void&style=flat-square&color=7AA2F7&label=VISITORS)](https://github.com/chewing-void)
@@ -16,7 +16,7 @@
 
 ## ` 🧬 ` whoami
 
-```yaml
+​```yaml
 name:        Yi
 role:        MPhil Researcher
 location:    Sydney, Australia
@@ -25,16 +25,16 @@ focus:
   - Human–Robot Interaction
   - VR-based Teleoperation
   - 3D Scene Reconstruction
-trajectory:  Fluid Mechanics → Deep Learning → Robotics
+trajectory:  Computer Vision → Deep Learning → Robotics
 status:      > Open to research collaboration
-```
+​```
 
 ## ` 🔭 ` Current Research
 
 > **A Wizard-of-Oz VR Teleoperation Study**
 > *Investigating how different 3D scene representations shape operator experience when remotely controlling a Pepper robot.*
 
-```mermaid
+​```mermaid
 %%{init: {'theme':'base', 'themeVariables': { 'primaryColor': '#1a1b26', 'primaryTextColor': '#c0caf5', 'primaryBorderColor': '#7aa2f7', 'lineColor': '#7aa2f7', 'secondaryColor': '#24283b', 'tertiaryColor': '#1a1b26', 'background': '#0d1117', 'fontFamily': 'JetBrains Mono'}}}%%
 graph LR
     A[Stereo Video] --> B[Point Cloud]
@@ -47,7 +47,7 @@ graph LR
     style C stroke:#7dcfff,stroke-width:2px
     style D stroke:#f7768e,stroke-width:2px
     style E stroke:#9ece6a,stroke-width:3px
-```
+​```
 
 **The Causal Staircase** — each rung adds one visual property (geometry → continuity → photorealism), isolating what actually matters for embodiment, cognitive load, and simulator sickness.
 
@@ -60,6 +60,28 @@ graph LR
 
 > Measured via `NASA-TLX` · `Embodiment Scale` · `SSQ` · behavioral metrics
 > Pre-registered on OSF · within-subjects · *N* = 30
+
+## ` 📄 ` Publications
+
+<table>
+<tr>
+<td width="120" align="center" valign="top">
+
+`PRCV`<br/>`2024`
+
+</td>
+<td>
+
+**SVDML**<br/>
+<sub>*Pattern Recognition and Computer Vision (PRCV)*</sub>
+
+[![Conference](https://img.shields.io/badge/PRCV-1a1b26?style=flat-square&labelColor=7aa2f7)]()
+[![Topic](https://img.shields.io/badge/Computer_Vision-bb9af7?style=flat-square)]()
+[![Topic](https://img.shields.io/badge/Metric_Learning-7dcfff?style=flat-square)]()
+
+</td>
+</tr>
+</table>
 
 ## ` ⚙️ ` Stack
 
@@ -127,7 +149,7 @@ graph LR
 
 <div align="center">
 
-<sub><i>“All models are wrong, but some are useful.”</i> — George E. P. Box</sub>
+<sub><i>"All models are wrong, but some are useful."</i> — George E. P. Box</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b26&height=80&section=footer" />
 
