@@ -16,7 +16,7 @@
 
 ## ` 🧬 ` whoami
 
-​```yaml
+```yaml
 name:        Yi
 role:        MPhil Researcher
 location:    Sydney, Australia
@@ -27,15 +27,14 @@ focus:
   - 3D Scene Reconstruction
 trajectory:  Computer Vision → Deep Learning → Robotics
 status:      > Open to research collaboration
-​```
-
+```
 
 ## ` 🔭 ` Current Research
 
 > **A Wizard-of-Oz VR Teleoperation Study**
 > *Investigating how different 3D scene representations shape operator experience when remotely controlling a Pepper robot.*
 
-​```mermaid
+```mermaid
 %%{init: {'theme':'base', 'themeVariables': { 'primaryColor': '#1a1b26', 'primaryTextColor': '#c0caf5', 'primaryBorderColor': '#7aa2f7', 'lineColor': '#7aa2f7', 'secondaryColor': '#24283b', 'tertiaryColor': '#1a1b26', 'background': '#0d1117', 'fontFamily': 'JetBrains Mono'}}}%%
 graph LR
     A[Stereo Video] --> B[Point Cloud]
@@ -48,7 +47,7 @@ graph LR
     style C stroke:#7dcfff,stroke-width:2px
     style D stroke:#f7768e,stroke-width:2px
     style E stroke:#9ece6a,stroke-width:3px
-​```
+```
 
 **The Causal Staircase** — each rung adds one visual property (geometry → continuity → photorealism), isolating what actually matters for embodiment, cognitive load, and simulator sickness.
 
@@ -150,7 +149,7 @@ graph LR
 
 <div align="center">
 
-<sub><i>"All models are wrong, but some are useful."</i> — George E. P. Box</sub>
+<sub><i>“All models are wrong, but some are useful.”</i> — George E. P. Box</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b26&height=80&section=footer" />
 
