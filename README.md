@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=200&section=header&text=Yi&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bridging%20Humans%20%26%20Robots%20through%20VR&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=200&section=header&text=Yi&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bridging%20Humans%20and%20Robots%20through%20VR&descAlignY=58&descSize=16" />
 
 <a href="https://github.com/chewing-void">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&lines=MPhil+Researcher+%40+UNSW+Sydney;VR+Teleoperation+%7C+Wizard+of+Oz;3D+Gaussian+Splatting+%7C+SplaTAM;Computer+Vision+%E2%86%92+Deep+Learning+%E2%86%92+Robotics" alt="Typing SVG" />
@@ -72,12 +72,13 @@ graph LR
 </td>
 <td>
 
-**SVDML**<br/>
+**SVDML: Semantic and Visual Space Deep Mutual Learning for Zero-Shot Learning**<br/>
 <sub>*Pattern Recognition and Computer Vision (PRCV)*</sub>
 
 [![Conference](https://img.shields.io/badge/PRCV-1a1b26?style=flat-square&labelColor=7aa2f7)]()
-[![Topic](https://img.shields.io/badge/Computer_Vision-bb9af7?style=flat-square)]()
-[![Topic](https://img.shields.io/badge/Metric_Learning-7dcfff?style=flat-square)]()
+[![Topic](https://img.shields.io/badge/Zero--Shot_Learning-bb9af7?style=flat-square)]()
+[![Topic](https://img.shields.io/badge/Mutual_Learning-7dcfff?style=flat-square)]()
+[![Topic](https://img.shields.io/badge/Vision--Language-9ece6a?style=flat-square)]()
 
 </td>
 </tr>
